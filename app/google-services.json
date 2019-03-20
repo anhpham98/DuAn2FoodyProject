@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "880698588035",
+    "firebase_url": "https://da2orderfood.firebaseio.com",
+    "project_id": "da2orderfood",
+    "storage_bucket": "da2orderfood.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:880698588035:android:ac553d65643ac88e",
+        "android_client_info": {
+          "package_name": "com.example.da2orderfood"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "880698588035-jqc6kljsvbl0ghal9t694cp11u1ns5eg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.da2orderfood",
+            "certificate_hash": "8312997e37e626e06088d213eb1cc1e7beabf0fd"
+          }
+        },
+        {
+          "client_id": "880698588035-i6reubrt51dne5oo10j6saua0ldsnci9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA30ovuNiFsE8pKwtAjaVIQc0Hg1OA8EGY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "880698588035-i6reubrt51dne5oo10j6saua0ldsnci9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
