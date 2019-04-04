@@ -21,10 +21,6 @@
             "package_name": "com.example.da2orderfood",
             "certificate_hash": "8312997e37e626e06088d213eb1cc1e7beabf0fd"
           }
-        },
-        {
-          "client_id": "880698588035-i6reubrt51dne5oo10j6saua0ldsnci9.apps.googleusercontent.com",
-          "client_type": 3
         }
       ],
       "api_key": [
@@ -33,20 +29,13 @@
         }
       ],
       "services": {
-        "analytics_service": {
-          "status": 1
-        },
         "appinvite_service": {
-          "status": 2,
           "other_platform_oauth_client": [
             {
               "client_id": "880698588035-i6reubrt51dne5oo10j6saua0ldsnci9.apps.googleusercontent.com",
               "client_type": 3
             }
           ]
-        },
-        "ads_service": {
-          "status": 2
         }
       }
     }
